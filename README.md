@@ -2,7 +2,7 @@
 
 ## Authors: Nicole Shklover and Inbar Rodan
 
-**Date:** [spring 2023]
+**Datespring 2023:**
 
 ## Introduction
 
